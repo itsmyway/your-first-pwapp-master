@@ -10,3 +10,6 @@ While you're free to use your own web server, this codelab is designed to work w
 
 For installing
 [Chrome Web Server](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en "Chrome Web Server")
+
+After installing the Web Server for Chrome app, click on the Apps shortcut on the bookmarks bar:
+
